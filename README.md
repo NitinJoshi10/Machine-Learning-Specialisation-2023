@@ -16,7 +16,7 @@ It provides a comprehensive introduction to modern machine learning, covering su
 
 By completing this Specialization, you will acquire essential concepts and practical skills to apply machine learning to solve real-world problems. If you are looking to start a career in machine learning or break into AI, this Machine Learning Specialization is an ideal place to start.
 
-# Courses in this specialization.
+# Courses in this specialization
 
 The first course focuses on Supervised Machine Learning: Regression and Classification. You will learn how to create machine learning models in Python using popular libraries such as NumPy and scikit-learn. Additionally, you will build and train supervised machine learning models for prediction and binary classification tasks, including linear and logistic regression.
 
